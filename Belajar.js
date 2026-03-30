@@ -27,3 +27,5 @@ console.log("Umur : " + Umur);
 console.log("Status Belajar : " + sedangBelajar);
 console.log("Status Pacar : " + pacar);
 console.log("Isi Tabungan : " + tabungan);
+console.log("Tes Git Hub");
+
